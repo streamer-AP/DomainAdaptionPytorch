@@ -1,8 +1,10 @@
 # Byte-compiled / optimized / DLL files
+#dataset
+*/dataset
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.events.out.tfevents*
 # C extensions
 *.so
 
