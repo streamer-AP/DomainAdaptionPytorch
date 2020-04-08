@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+#VScode
+*.vscode/
 #dataset
 */dataset
 __pycache__/
